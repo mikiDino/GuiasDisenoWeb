@@ -1,0 +1,23 @@
+#mayuscula{
+ text-transform: uppercase;
+}
+#minuscula{
+    text-transform: lowercase;
+}
+#ambos{
+    text-transform: capitalize;
+}
+#extra{
+    /* funciona cuando incluye a un conjunto de etiquetas
+    que estan dentro de una etiqueta, y no en una etiqueta como H3 o demas*/
+    
+    font-variant: small-caps;
+}
+#extra span{
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+ li{
+    text-align: center;
+    text-decoration:none;
+}
