@@ -1,0 +1,33 @@
+
+body{
+    background-color: skyblue;
+    font-family: cursive;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+div {
+    background-color: slategrey;
+    border: 2px solid darkgreen;
+    position: fixed;
+    
+}
+img {
+    width: 200px;
+    height: 300px;
+    margin: 5px 8px;
+}
+#container{
+    display: flex;
+}
+ul{
+    margin:auto;
+}
+li{
+    max-width: 600px;
+    list-style: none;
+    font-size: 125%;
+
+}
